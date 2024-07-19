@@ -1,0 +1,2 @@
+# What is this project?
+This project is a python web scraper that scrapes the details of a music tour from a website, stores it in a SQLite database and notifies the user via email when a new tour is added.
